@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "perf": "node performance.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,9 +16,5 @@
   "bugs": {
     "url": "https://github.com/Milo-Shen/Raspberry-Pi-Performance/issues"
   },
-  "homepage": "https://github.com/Milo-Shen/Raspberry-Pi-Performance#readme",
-  "dependencies": {
-    "md5": "^2.3.0",
-    "uuid": "^8.3.2"
-  }
+  "homepage": "https://github.com/Milo-Shen/Raspberry-Pi-Performance#readme"
 }
